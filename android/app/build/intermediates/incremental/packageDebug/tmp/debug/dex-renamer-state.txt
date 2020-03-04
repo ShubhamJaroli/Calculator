@@ -1,0 +1,4 @@
+#Tue Feb 11 17:38:41 IST 2020
+base.0=/home/ulcom32/Desktop/Work/jan/20jan/Calculator/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
